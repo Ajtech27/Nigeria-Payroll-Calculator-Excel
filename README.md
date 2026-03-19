@@ -70,10 +70,8 @@ Built for businesses with 5 to 50 staff who are currently processing payroll man
 
 | Sheet | Preview |
 |---|---|
-| Dashboard | `screenshots/dashboard.png` |
-| Payroll Engine | `screenshots/payroll.png` |
-| Payslip Generator | `screenshots/payslip.png` |
-| Timesheet | `screenshots/timesheet.png` |
+| Dashboard | `[screenshots/dashboard.png](https://github.com/Ajtech27/Nigeria-Payroll-Calculator-Excel/blob/main/Payroll%20Dashboard.png)` |
+  
 
 ---
 
