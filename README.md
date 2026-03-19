@@ -66,15 +66,7 @@ Built for businesses with 5 to 50 staff who are currently processing payroll man
 
 ---
 
-## 📸 Screenshots
-
-| Sheet | Preview |
-|---|---|
-| Dashboard | `[screenshots/dashboard.png](https://github.com/Ajtech27/Nigeria-Payroll-Calculator-Excel/blob/main/Payroll%20Dashboard.png)` |
-  
-
----
-
+ 
 ## 👤 Who This Is Built For
 
 - ✅ Nigerian businesses with 5 to 50 staff
@@ -104,7 +96,7 @@ Need this customised for your business? I can:
 - Train your team on how to use it
 - Deliver it ready to run from day one
 
-📧 Connect with me on [Upwork]([https://www.upwork.com](https://www.upwork.com/freelancers/~01bf1520c825940908)) | [LinkedIn][(https://www.linkedin.com](https://linkedin.com/in/afolayan-joseph))
+📧 Connect with me on [Upwork][(https://www.upwork.com](https://www.upwork.com/freelancers/~01bf1520c825940908)) | [LinkedIn][(https://www.linkedin.com](https://linkedin.com/in/afolayan-joseph))
 
 ---
 
