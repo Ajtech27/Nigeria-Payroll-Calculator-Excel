@@ -3,6 +3,8 @@
 A fully automated monthly payroll system built in Microsoft Excel, specifically designed for Nigerian businesses. Enter your staff details once and update three things every month — the entire payroll calculates itself.
 
 ---
+![Dashboard](https://github.com/Ajtech27/Nigeria-Payroll-Calculator-Excel/blob/main/Payroll%20Dashboard.png)
+![Payroll](https://github.com/Ajtech27/Nigeria-Payroll-Calculator-Excel/blob/main/Payroll.png)
 
 ## 📌 Project Overview
 
@@ -96,7 +98,7 @@ Need this customised for your business? I can:
 - Train your team on how to use it
 - Deliver it ready to run from day one
 
-📧 Connect with me on [Upwork][(https://www.upwork.com](https://www.upwork.com/freelancers/~01bf1520c825940908)) | [LinkedIn][(https://www.linkedin.com](https://linkedin.com/in/afolayan-joseph))
+📧 Connect with me on [Upwork](https://www.upwork.com/freelancers/~01bf1520c825940908) | [LinkedIn](https://linkedin.com/in/afolayan-joseph)
 
 ---
 
